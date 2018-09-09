@@ -259,6 +259,7 @@ class CVAE(AbstractAutoEncoder):
 
     def latest_losses(self):
         return {'mse': self.mse, 'kl': self.kl_loss}
+    
 
 
 class VQ_CVAE(nn.Module):
@@ -336,9 +337,9 @@ class VQ_CVAE(nn.Module):
     def latest_losses(self):
         return {'mse': self.mse, 'vq': self.vq_loss, 'commitment': self.commit_loss}
 
-    def print_atom_hist(self, argmin):
+def print_atom_hist(self, argmin):
 
-        argmin = argmin.detach().cpu().numpy()
-        unique, counts = np.unique(argmin, return_counts=True)
-        logging.info(counts)
-        logging.info(unique)
+    argmin = argmin.detach().cpu().numpy()
+    unique, counts = np.unique(argmin, return_counts=True)
+    logging.info(counts)
+    logging.info(unique)
