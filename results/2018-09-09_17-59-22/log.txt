@@ -1,1 +1,41 @@
 2018-09-09 17:59:40 - INFO - Train Epoch: 1 [    0/50048 ( 0%)]   time: 4.84   mse_train: 0.025906 kl_train: 0.053442
+2018-09-09 18:00:26 - INFO - Train Epoch: 1 [ 1280/50048 ( 2%)]   time: 45.22   mse_train: 0.176420 kl_train: 0.387944
+2018-09-09 18:01:12 - INFO - Train Epoch: 1 [ 2560/50048 ( 5%)]   time: 45.89   mse_train: 0.107831 kl_train: 0.236044
+2018-09-09 18:01:57 - INFO - Train Epoch: 1 [ 3840/50048 ( 7%)]   time: 45.59   mse_train: 0.087705 kl_train: 0.204527
+2018-09-09 18:02:43 - INFO - Train Epoch: 1 [ 5120/50048 (10%)]   time: 45.91   mse_train: 0.075261 kl_train: 0.174136
+2018-09-09 18:03:28 - INFO - Train Epoch: 1 [ 6400/50048 (12%)]   time: 44.67   mse_train: 0.068849 kl_train: 0.155422
+2018-09-09 18:04:14 - INFO - Train Epoch: 1 [ 7680/50048 (15%)]   time: 45.85   mse_train: 0.064532 kl_train: 0.143441
+2018-09-09 18:04:58 - INFO - Train Epoch: 1 [ 8960/50048 (17%)]   time: 44.25   mse_train: 0.060044 kl_train: 0.135466
+2018-09-09 18:05:42 - INFO - Train Epoch: 1 [10240/50048 (20%)]   time: 44.61   mse_train: 0.058245 kl_train: 0.130943
+2018-09-09 18:06:28 - INFO - Train Epoch: 1 [11520/50048 (23%)]   time: 45.43   mse_train: 0.056599 kl_train: 0.127299
+2018-09-09 18:07:13 - INFO - Train Epoch: 1 [12800/50048 (25%)]   time: 45.08   mse_train: 0.055615 kl_train: 0.127180
+2018-09-09 18:07:58 - INFO - Train Epoch: 1 [14080/50048 (28%)]   time: 45.40   mse_train: 0.054264 kl_train: 0.126779
+2018-09-09 18:08:44 - INFO - Train Epoch: 1 [15360/50048 (30%)]   time: 45.68   mse_train: 0.052468 kl_train: 0.124264
+2018-09-09 18:09:29 - INFO - Train Epoch: 1 [16640/50048 (33%)]   time: 44.68   mse_train: 0.050896 kl_train: 0.125716
+2018-09-09 18:10:13 - INFO - Train Epoch: 1 [17920/50048 (35%)]   time: 44.57   mse_train: 0.049918 kl_train: 0.124382
+2018-09-09 18:10:59 - INFO - Train Epoch: 1 [19200/50048 (38%)]   time: 45.40   mse_train: 0.049664 kl_train: 0.125737
+2018-09-09 18:11:43 - INFO - Train Epoch: 1 [20480/50048 (40%)]   time: 44.73   mse_train: 0.047434 kl_train: 0.121602
+2018-09-09 18:12:28 - INFO - Train Epoch: 1 [21760/50048 (43%)]   time: 44.65   mse_train: 0.047214 kl_train: 0.126341
+2018-09-09 18:13:13 - INFO - Train Epoch: 1 [23040/50048 (46%)]   time: 45.43   mse_train: 0.047034 kl_train: 0.126772
+2018-09-09 18:13:59 - INFO - Train Epoch: 1 [24320/50048 (48%)]   time: 45.19   mse_train: 0.046362 kl_train: 0.128242
+2018-09-09 18:14:45 - INFO - Train Epoch: 1 [25600/50048 (51%)]   time: 45.91   mse_train: 0.046436 kl_train: 0.126541
+2018-09-09 18:15:30 - INFO - Train Epoch: 1 [26880/50048 (53%)]   time: 45.09   mse_train: 0.045890 kl_train: 0.134236
+2018-09-09 18:16:15 - INFO - Train Epoch: 1 [28160/50048 (56%)]   time: 45.57   mse_train: 0.044950 kl_train: 0.129536
+2018-09-09 18:17:00 - INFO - Train Epoch: 1 [29440/50048 (58%)]   time: 45.27   mse_train: 0.043206 kl_train: 0.133599
+2018-09-09 18:17:46 - INFO - Train Epoch: 1 [30720/50048 (61%)]   time: 45.16   mse_train: 0.042875 kl_train: 0.130079
+2018-09-09 18:18:31 - INFO - Train Epoch: 1 [32000/50048 (63%)]   time: 45.46   mse_train: 0.042878 kl_train: 0.133770
+2018-09-09 18:19:16 - INFO - Train Epoch: 1 [33280/50048 (66%)]   time: 44.98   mse_train: 0.042682 kl_train: 0.131081
+2018-09-09 18:20:02 - INFO - Train Epoch: 1 [34560/50048 (69%)]   time: 45.49   mse_train: 0.041192 kl_train: 0.133623
+2018-09-09 18:20:47 - INFO - Train Epoch: 1 [35840/50048 (71%)]   time: 45.46   mse_train: 0.042661 kl_train: 0.134601
+2018-09-09 18:21:31 - INFO - Train Epoch: 1 [37120/50048 (74%)]   time: 44.41   mse_train: 0.040703 kl_train: 0.132994
+2018-09-09 18:22:17 - INFO - Train Epoch: 1 [38400/50048 (76%)]   time: 45.46   mse_train: 0.040429 kl_train: 0.133689
+2018-09-09 18:23:02 - INFO - Train Epoch: 1 [39680/50048 (79%)]   time: 45.01   mse_train: 0.039552 kl_train: 0.135838
+2018-09-09 18:23:47 - INFO - Train Epoch: 1 [40960/50048 (81%)]   time: 44.74   mse_train: 0.040120 kl_train: 0.133404
+2018-09-09 18:24:32 - INFO - Train Epoch: 1 [42240/50048 (84%)]   time: 45.09   mse_train: 0.039852 kl_train: 0.138146
+2018-09-09 18:25:17 - INFO - Train Epoch: 1 [43520/50048 (86%)]   time: 45.51   mse_train: 0.040141 kl_train: 0.135178
+2018-09-09 18:26:02 - INFO - Train Epoch: 1 [44800/50048 (89%)]   time: 45.03   mse_train: 0.038322 kl_train: 0.135753
+2018-09-09 18:26:47 - INFO - Train Epoch: 1 [46080/50048 (92%)]   time: 45.18   mse_train: 0.038407 kl_train: 0.134949
+2018-09-09 18:27:33 - INFO - Train Epoch: 1 [47360/50048 (94%)]   time: 45.41   mse_train: 0.038225 kl_train: 0.134799
+2018-09-09 18:28:18 - INFO - Train Epoch: 1 [48640/50048 (97%)]   time: 45.05   mse_train: 0.038186 kl_train: 0.134705
+2018-09-09 18:29:02 - INFO - Train Epoch: 1 [31200/31280 (99%)]   time: 44.15   mse_train: 0.037527 kl_train: 0.137309
+2018-09-09 18:29:02 - INFO - ====> Epoch: 1 mse_train: 0.053926	kl_train: 0.145395

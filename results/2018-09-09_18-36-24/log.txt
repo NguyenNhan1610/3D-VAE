@@ -1,0 +1,2 @@
+2018-09-09 18:36:34 - INFO - Train Epoch: 1 [    0/50048 ( 0%)]   time: 4.89   mse_train: 0.025906 kl_train: 0.053442
+2018-09-09 18:37:20 - INFO - Train Epoch: 1 [ 1280/50048 ( 2%)]   time: 46.62   mse_train: 0.176420 kl_train: 0.387944
